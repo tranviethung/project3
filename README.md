@@ -1,2 +1,1 @@
-# project3
-Ví dụ 1
+<?php echo "hello"?>
